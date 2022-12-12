@@ -1,0 +1,138 @@
+*{
+  position: relative;
+}
+ body{
+   background-color: lightblue;
+ }
+.header{
+  text-align: center;
+  padding: 15px 15px;
+}
+
+.image{
+  text-align: center;
+  border: 1px solid black;
+  height: 180px;
+  background-color: white;
+}
+
+.image h1{
+  padding-bottom: 15px;
+  text-decoration: underline;
+}
+.image h2{
+  border: 1px rgb(0, 255, 127);
+  background-color: rgb(0, 255, 127);
+  height:60px;
+  width: 200px;
+  font-weight: normal;
+  font-size:20px;
+  margin: auto;
+  position: relative;
+  right: 250px;
+  bottom: 18px;
+}
+
+.image h3{
+  border: 1px rgb(248, 200, 220) ;
+  background-color: rgb(248, 200, 220);
+  font-weight: normal;
+  height: 60px;
+  width: 200px;
+  text-align: center;
+  bottom: 77px;
+  font-size:20px;
+  margin: auto;
+  position: relative;
+}
+
+.image h4{
+  border: 1px rgb(115, 147, 179);
+  background-color: rgb(115, 147, 179);
+  font-weight: normal;
+  height: 60px;
+  width: 200px;
+  text-align: center;
+  margin: auto;
+  position: relative;
+  font-size:20px;
+  left: 250px;
+  bottom: 138px;
+  margin: auto;
+}
+
+.fonts{
+  border: 1px solid black;
+  background-color: white;
+}
+
+.fonts h1{
+  text-align: center;
+  text-decoration: underline;
+}
+
+.fonts h2{
+  font-family: "Space Mono";
+  text-decoration: underline;
+  font-size: 22px;
+  text-align: center;
+}
+
+.fonts p{
+  font-family: "Space Mono";
+  text-align: center;
+  line-height: 25px;;
+}
+
+.mon h3{
+  font-family: Montserrat;
+  text-decoration: underline;
+  font-size: 22px;
+  text-align: center;
+}
+
+.mon p{
+  font-family: "montserrat";
+}
+
+.cav h4{
+  font-family: "Caveat";
+  font-size: 22px;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.cav p{
+  font-family: "Caveat";
+}
+
+.texts{
+  text-align: center;
+  border: 1px solid black;
+  height: 600px;
+  background-color: white;
+}
+
+.texts h1{
+  text-decoration: underline;
+}
+
+.texts h2{
+  text-decoration: underline;
+}
+
+.texts h3{
+  text-decoration: underline;
+}
+.texts ul{
+  padding:0;
+  line-height: 30px;
+  list-style-position: inside;
+  font-size: 20px;
+  font-weight: normal;
+  text-align: left;
+  width: 40%;
+  position:relative;
+  left: 40%;
+
+}
